@@ -63,33 +63,6 @@ Pedigree Builder is an R/Shiny application designed to construct, annotate and e
 
 The project reflects a practical bridge between genetics domain expertise and software implementation. It was developed through self-directed learning, iterative testing, documentation reading, and AI-assisted coding support.
 
-## Evidence Included in This Repository
-
-The `evidence/` folder contains supporting documents such as CV/resume, diploma evidence, professional/scientific documents and a presentation of the pedigree application.
-
-Important note: some PDF documents may contain personal contact information. For a public repository, consider replacing them with redacted versions.
-
-## Repository Structure
-
-```text
-.
-|-- README.md
-|-- PRESENTATION.md
-|-- FORM_RESPONSE.md
-|-- docs/
-|   |-- biological-sciences-experience.md
-|   |-- computational-health-profile.md
-|   |-- education-certifications.md
-|   `-- publication-and-research.md
-|-- projects/
-|   `-- pedigree-builder.md
-|-- evidence/
-|   |-- README.md
-|   |-- documents/
-|   `-- presentations/
-`-- assets/
-```
-
 ## Links
 
 - GitHub: [MKB07](https://github.com/MKB07)
